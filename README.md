@@ -1,7 +1,7 @@
 # Contianalyst
 
 ## Overview
-This repository contains several scripts that perform a precise analysis of Conti victims in relation to the conversations released by @ContiLeaks in 2022. Specifically, the timely passage of the detected victims mentioned in the conversations of Jabber users is analyzed. and their relationship. In order to replicate this data analysis, it is necessary to have the "contidb.json" files, which are an extensive compilation of all Conti victims, and on the other hand, the "unified_translated.json" file, which contains all the conversations carried out by the victims. Jabber users from the Conti group.
+This repository contains several scripts that perform a precise analysis of Conti victims in relation to the conversations released by @ContiLeaks in 2022. Specifically, the timely passage of the detected victims mentioned in the conversations of Jabber users is analyzed. and their relationship. In order to replicate this data analysis it is necessary to have the "contidb.json" file, which is an extensive compilation of all Conti victims, and on the other hand, the "unified_translated.json" file, which contains all the conversations carried out by Jabber users from the Conti group.
 
 ## Installation
 1. Clone the repository
