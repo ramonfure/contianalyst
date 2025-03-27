@@ -7,6 +7,7 @@
 
 ## Overview
 
+
 **Conti Analyst** is a Python-based tool developed to analyze data leaked from the cybercriminal group **Conti**. This tool helps researchers and cybersecurity professionals transform raw data from JSON files into Cypher queries, enabling efficient analysis of relationships and interactions within the Conti ransomware ecosystem.
 
 ## Features
@@ -19,6 +20,9 @@
 
 - [Python 3.8+](https://www.python.org)
 - [Neo4j 5.0+](https://neo4j.com)
+
+This repository contains several scripts that perform a precise analysis of Conti victims in relation to the conversations released by @ContiLeaks in 2022. Specifically, the timely passage of the detected victims mentioned in the conversations of Jabber users is analyzed. and their relationship. In order to replicate this data analysis it is necessary to have the "contidb.json" file, which is an extensive compilation of all Conti victims, and on the other hand, the "unified_translated.json" file, which contains all the conversations carried out by Jabber users from the Conti group.
+
 
 ## Installation
 
